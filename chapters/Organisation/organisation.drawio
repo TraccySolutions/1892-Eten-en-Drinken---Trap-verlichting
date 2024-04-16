@@ -1,0 +1,90 @@
+<mxfile host="Electron" modified="2024-02-08T11:41:50.104Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="iQ6MOdwH4Xk2PfbLbMkv" version="21.6.8" type="device">
+  <diagram name="Page-1" id="lnu3cHVQMVQPtzXEHo_e">
+    <mxGraphModel dx="1941" dy="1746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ai9jlv7dWEnIiXGiaFlQ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ai9jlv7dWEnIiXGiaFlQ-1" target="ai9jlv7dWEnIiXGiaFlQ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ai9jlv7dWEnIiXGiaFlQ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ai9jlv7dWEnIiXGiaFlQ-1" target="ai9jlv7dWEnIiXGiaFlQ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ai9jlv7dWEnIiXGiaFlQ-1" value="Project 4:&lt;br&gt;Smart Energy Devices" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="10" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ai9jlv7dWEnIiXGiaFlQ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ai9jlv7dWEnIiXGiaFlQ-3" target="ai9jlv7dWEnIiXGiaFlQ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ai9jlv7dWEnIiXGiaFlQ-3" value="Accompaniment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ai9jlv7dWEnIiXGiaFlQ-26" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;rounded=1;" edge="1" parent="1" source="ai9jlv7dWEnIiXGiaFlQ-14" target="ai9jlv7dWEnIiXGiaFlQ-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ai9jlv7dWEnIiXGiaFlQ-30" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;" edge="1" parent="1" source="ai9jlv7dWEnIiXGiaFlQ-14" target="ai9jlv7dWEnIiXGiaFlQ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ai9jlv7dWEnIiXGiaFlQ-31" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;" edge="1" parent="1" source="ai9jlv7dWEnIiXGiaFlQ-14" target="ai9jlv7dWEnIiXGiaFlQ-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ai9jlv7dWEnIiXGiaFlQ-32" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;" edge="1" parent="1" source="ai9jlv7dWEnIiXGiaFlQ-14" target="ai9jlv7dWEnIiXGiaFlQ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ai9jlv7dWEnIiXGiaFlQ-33" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;rounded=1;" edge="1" parent="1" source="ai9jlv7dWEnIiXGiaFlQ-14" target="ai9jlv7dWEnIiXGiaFlQ-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ai9jlv7dWEnIiXGiaFlQ-14" value="&lt;h1&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Stephen O’Loughlin&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Project coordinator&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="210" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ai9jlv7dWEnIiXGiaFlQ-15" value="&lt;h1&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Jesse Op Den Brouw&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;&quot;&gt;Project supervisor&lt;br&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Programming supervisor&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="410" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ai9jlv7dWEnIiXGiaFlQ-16" value="&lt;h1&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Ad van den Bergh&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;&quot;&gt;Programming supervisor&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="265" y="410" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ai9jlv7dWEnIiXGiaFlQ-17" value="&lt;h1&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Diego Zuidervliet&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;&quot;&gt;Researcher Energy Devices&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="85" y="410" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ai9jlv7dWEnIiXGiaFlQ-20" value="&lt;h1&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Paul Witte&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;&quot;&gt;PCB supervisor&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-255" y="410" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ai9jlv7dWEnIiXGiaFlQ-21" value="&lt;h1&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Peter van Duijsen&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Researcher power electronics&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="410" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ai9jlv7dWEnIiXGiaFlQ-2" value="Our team" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="-90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ai9jlv7dWEnIiXGiaFlQ-18" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-70" y="-360" width="565" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="ai9jlv7dWEnIiXGiaFlQ-6" value="&lt;h1&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Justin van der Reijden&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Planner&lt;br&gt;Researcher &amp;amp; Developer&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="ai9jlv7dWEnIiXGiaFlQ-18">
+          <mxGeometry x="-15" y="-10" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ai9jlv7dWEnIiXGiaFlQ-7" value="&lt;h1&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Marnix Harmsen&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Notaris&lt;br&gt;Researcher &amp;amp; Developer&lt;br&gt;Final Checker&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="ai9jlv7dWEnIiXGiaFlQ-18">
+          <mxGeometry x="175" y="-10" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ai9jlv7dWEnIiXGiaFlQ-8" value="&lt;h1&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Luuk van Kappel&lt;/span&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 10px;&quot;&gt;Archivist&lt;br&gt;Researcher &amp;amp; Developer&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="ai9jlv7dWEnIiXGiaFlQ-18">
+          <mxGeometry x="-210" y="-10" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ai9jlv7dWEnIiXGiaFlQ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ai9jlv7dWEnIiXGiaFlQ-2" target="ai9jlv7dWEnIiXGiaFlQ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ai9jlv7dWEnIiXGiaFlQ-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ai9jlv7dWEnIiXGiaFlQ-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="-290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ai9jlv7dWEnIiXGiaFlQ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ai9jlv7dWEnIiXGiaFlQ-9" target="ai9jlv7dWEnIiXGiaFlQ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ai9jlv7dWEnIiXGiaFlQ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ai9jlv7dWEnIiXGiaFlQ-9" target="ai9jlv7dWEnIiXGiaFlQ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ai9jlv7dWEnIiXGiaFlQ-9" value="&lt;h1&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Laurens van der Drift&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Project Manager&lt;br&gt;Archivist&lt;br&gt;Researcher &amp;amp; Developer&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="-230" width="180" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
